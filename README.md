@@ -1,2 +1,2 @@
-# harris_edge_detection
-Harris edge detection algorithm
+# harris_corner_detection
+Harris corner detection algorithm
